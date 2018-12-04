@@ -1,2 +1,2 @@
 # resume
-My Personal Profile
+My Personal Profile（个人简历电子版）
